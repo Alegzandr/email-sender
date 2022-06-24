@@ -1,0 +1,1 @@
+Environment variables : PORT, SERVICE, EMAIL, PASSWORD
